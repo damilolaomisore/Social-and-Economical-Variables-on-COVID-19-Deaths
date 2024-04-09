@@ -2,6 +2,7 @@
 This study aimed to investigate the deaths in England from COVID-19, and its predictors among patients. 
 The large number of COVID-19 deaths in England brings about the hypothesis that there might be other factors that have a connection with the COVID-19 mortality of individuals. 
 The objective of this work is to inspect and analyse the connections between social and economic variables such as age, sex, ethnicity, health, heating, social grade, travel to work and COVID-19 deaths. 
+The data was retrieved from https://www.nomisweb.co.uk/.
 Each variable was analysed firstly by checking for normality through visualisation and statistical test. 
 The data was then normalised per thousand population which was then ready for analysis. 
 A correlation test was then carried out on all variables to test the relationship each variable has with the other. 
